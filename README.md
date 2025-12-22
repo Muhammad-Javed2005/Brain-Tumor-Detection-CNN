@@ -115,3 +115,20 @@ These results are strong considering dataset size and balance.
 ```python
 from tensorflow.keras.models import load_model
 best_model = load_model('models/cnn-parameters-improvement-23-0.91.model')
+
+## Author
+
+**Muhammad Javed**  
+Computer Engineering Student | Machine Learning Enthusiast  
+
+---
+
+## Contact
+
+- **GitHub:** https://github.com/Muhammad-Javed2005  
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-javed-24b262369/  
+- **Email:** muhammadjaved.tech5@gmail.com  
+
+---
+
+⭐ If you find this study material useful, consider giving the repository a star.
