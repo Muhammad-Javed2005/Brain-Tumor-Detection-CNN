@@ -121,7 +121,7 @@ best_model = load_model('models/cnn-parameters-improvement-23-0.91.model')
 ## Author
 
 **Muhammad Javed**  
-Computer Engineering Student | Machine Learning Enthusiast  
+Computer Engineering Student  | Machine Learning Enthusiast  
 
 ---
 
